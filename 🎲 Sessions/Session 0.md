@@ -1,3 +1,10 @@
+---
+date: 2023-01-16
+type: session
+tags: session
+summary: "Initial game settup"
+---
+
 # Session 0 - 2023/01/16
 
 ## Setting Notes
