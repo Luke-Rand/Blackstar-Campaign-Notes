@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "The Rockbeard's crazy uncle"
+summary: "The Rockbeard's crazy uncle"
 ancestry: 
 gender: 
 class: 

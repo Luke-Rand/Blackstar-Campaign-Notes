@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8337e45ab36c8708",
+            "id": "2ea334e08f9ddb8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce20fc51dd4c164b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5244cd557759fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🎲 Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🎲 Sessions/Session 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a474c8deaa6fab2a",
@@ -141,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +186,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.4444444444444444,
                   "close": true
                 }
               }
@@ -174,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,17 +210,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8337e45ab36c8708",
+  "active": "f5244cd557759fc3",
   "lastOpenFiles": [
-    "👥 Characters/NPC/Samantha Bridgewater.md",
     "README.md",
-    "👥 Characters/NPC/Nathan Gruber.md",
-    "👥 Characters/NPC/Learned Wyze.md",
-    "👥 Characters/NPC/Jondor Rockbeard.md",
-    "Templates/Faction Template.md",
+    "🎲 Sessions/Session 1.md",
+    "🗺️ Locations/Southreach.md",
+    "Assets/Southreach.png",
+    "👪 Factions/Smithworks Company.md",
+    "👪 Factions/Ironmane Clan.md",
     "👪 Factions/Gentle Bandits.md",
-    "Templates/_generic.md",
     "👪 Factions/Feather Parade.md",
-    "👥 Characters/Player/Laramie Sarnoff (Luke).md"
+    "👪 Factions/Crimsonshore Alliance.md",
+    "👪 Factions/Circle of The Reawakened Barren.md"
   ]
 }

@@ -3,7 +3,7 @@ type: npc
 faction: "Gentle Bandits"
 location: 
 date: 2023-02-13
-description: "Mage in the Gentle Bandits"
+summary: "Mage in the Gentle Bandits"
 ancestry: 
 gender: 
 class: 
@@ -15,3 +15,6 @@ class:
 Nathan is the mage for the [[The Gentle Bandits]] and his speciality is enchantment magic. He produces the wands that you use to charm the wealthy out of their wealth.
 
 He is quiet and rather meek, only really ever speaking to [[Samantha Bridgewater]], or when spoken to. Rumor is that he is a drop-out from [[Greenworth]] and his parents kicked him out in shame and that is why he is so depressed.
+
+## Notes
+He is really nice to people.

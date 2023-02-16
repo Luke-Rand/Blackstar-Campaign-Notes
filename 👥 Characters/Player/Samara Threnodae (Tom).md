@@ -5,9 +5,9 @@ faction:
 location: 
 date: 2023-02-13
 description: "Human woman cleric played by Tom"
-ancestry: human
+ancestry: Human
 gender: woman
-class: cleric
+class: Cleric
 ---
 # [[Samara Threnodae (Tom)]]
 ![](https://lh6.googleusercontent.com/5ncLy275v8fozcuhwzet-Trhhmr6TVhoteCg5GM6Y_Qdl7p8VJy0-fy1OBYlvbi5HoR8dqmxtktDZtDTxWzSvcpo-bzRhW8HUiDGeHqs5gshlHksdWvNy6hhAhJP0bvjuN65P512CGfxvnEild_mkA)

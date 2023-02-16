@@ -1,9 +1,9 @@
 ---
-type: npc
+type: familiar
 faction:
 location: 
 date: 2023-02-13
-description: "Jerrex's wolf companion"
+summary: "Jerrex's wolf companion"
 ancestry: Wolf
 gender: 
 class: 

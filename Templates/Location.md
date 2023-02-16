@@ -1,5 +1,5 @@
 ---
-type: Location
+type: location
 affiliation: 
 tags: [Location]
 ---

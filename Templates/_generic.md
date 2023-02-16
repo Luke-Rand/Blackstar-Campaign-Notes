@@ -5,7 +5,7 @@ played_by:
 faction:
 location: 
 date: <% tp.date.now("YYYY-MM-DD") %>
-description: ""
+summary: ""
 ancestry: 
 gender: 
 class: 

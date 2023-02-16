@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "Magpie's great great grand unt"
+summary: "Magpie's great great grand aunt"
 ancestry: 
 gender: 
 class: 

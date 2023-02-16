@@ -3,7 +3,7 @@ type: npc
 faction: "Gentle Bandits"
 location: 
 date: 2023-02-13
-description: "Leader of the Gentle Bandits"
+summary: "Leader of the Gentle Bandits"
 ancestry: human
 gender: woman
 class: 

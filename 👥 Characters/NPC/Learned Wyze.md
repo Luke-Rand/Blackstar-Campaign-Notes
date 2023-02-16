@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "Toshi's teacher"
+summary: "Toshi's teacher"
 ancestry: Human
 gender: Man
 class: Wizard

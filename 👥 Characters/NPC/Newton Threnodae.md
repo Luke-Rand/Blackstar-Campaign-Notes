@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "Father figure to Samara"
+summary: "Father figure to Samara"
 ancestry: 
 gender: 
 class: 

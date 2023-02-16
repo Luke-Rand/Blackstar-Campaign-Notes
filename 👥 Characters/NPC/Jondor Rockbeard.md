@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "Jerrex's twin brother"
+summary: "Jerrex's twin brother"
 ancestry: dwarf
 gender: man
 class: 

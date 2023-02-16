@@ -7,7 +7,7 @@ date: 2023-02-13
 description: ""
 ancestry: Kitsune
 gender: man
-class: magus
+class: Magus
 ---
 # [[Toshiro Mitsunara (Scott)]]
 ![](https://lh3.googleusercontent.com/EOWo-f9WZWJEJSBAAC-9miAQDymKM6wFtLeqa0A-3uQWVWOc8usgKF8E_ip7oHGD2loJOAYyO3LeQPZbdJ0GF_0Z9xwBzv0BGEiExcdoL44pOKQWI1W6D8cgmFSRnuIrtqfcMAQyR32153bcH1RgaA)

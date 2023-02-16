@@ -3,7 +3,7 @@ type: npc
 faction:
 location: 
 date: 2023-02-13
-description: "Creator of Animus"
+summary: "Creator of Animus"
 ancestry: Human
 gender: man
 class: Cleric

@@ -1,10 +1,10 @@
 ---
-type: Faction
+type: faction
 important:
 faction: Feather Parade
 location: 
 date: 2023-02-13
-description: "A group of peacock tengu"
+summary: "A group of peacock tengu"
 ancestry: Tengu
 ---
 # [[Feather Parade]]

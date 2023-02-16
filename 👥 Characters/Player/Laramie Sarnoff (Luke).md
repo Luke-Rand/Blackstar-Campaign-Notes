@@ -5,9 +5,9 @@ faction:
 location: 
 date: 2023-02-13
 description: ""
-ancestry: tengu
+ancestry: Tengu
 gender: man
-class: investigator
+class: Investigator
 ---
 # Laramie Sarnoff
 ![[LaramieSarnoff.jpg]]

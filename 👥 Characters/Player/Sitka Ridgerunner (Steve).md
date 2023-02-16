@@ -5,9 +5,9 @@ faction:
 location: 
 date: 2023-02-13
 description: ""
-ancestry: ghorian
+ancestry: Ghorian
 gender: none
-class: druid
+class: Druid
 ---
 # [[Sitka Ridgerunner (Steve)]]
 ![](https://lh3.googleusercontent.com/MoU1ITGanQJ1Tv_wFuI7IWCzx6gp7ymXIww_v8stANjX_ShVQSmIK0lJ3D4oqiv-ph7fzUuH8nsMPgmPKeWTd6onMe31_hc78HKFZ-gfM7z7_pmcPDRUooCgKyWStZ0YO6wTxzgPjNS72bqx3V0RcA)

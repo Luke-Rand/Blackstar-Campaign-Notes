@@ -3,8 +3,8 @@ world: Blackstar
 system: Pathfinder 2e
 ---
 
-# Blackstar-Campaign-Notes
- Notes from the Blackstar Pathfinder Campaign
+# Blackstar Campaign Notes
+Notes from the Blackstar Pathfinder2e Campaign
 
 ## Player Characters
 ```dataview
@@ -13,21 +13,26 @@ WHERE type= "pc"
 ```
 ## Factions
 ```dataview
-TABLE
-FROM "👪 Factions"
+TABLE summary AS "Summary"
+WHERE type = "faction"
 ```
 
 
 ## Prominent NPCs
 ```dataview
-TABLE description AS "Description", faction AS "Faction"
-WHERE type= "npc"
+TABLE summary AS "Summary", faction AS "Faction"
+WHERE type = "npc"
 ```
 
+## Locations
+```dataview
+TABLE summary AS "Summary"
+WHERE type = "location" AND file.name != "Location"
+```
 
 ## Sessions
 ```dataview
 TABLE date AS "Date", summary AS "Summary" 
-FROM "🎲 Sessions"
+WHERE type = "session" AND file.name != "Session Summary"
 SORT date ASCENDING
 ```
