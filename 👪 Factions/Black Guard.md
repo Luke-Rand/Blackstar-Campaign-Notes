@@ -12,4 +12,4 @@ class:
 ---
 # [[Black Guard]]
 
-An elite group of guardsmen who are the guardians of [[City of Blackstar]]
+An elite group of guardsmen who are the guardians of [[Blackstar]]

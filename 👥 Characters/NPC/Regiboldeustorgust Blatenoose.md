@@ -12,6 +12,6 @@ class:
 ---
 # [[Regiboldeustorgust Blatenoose]]
 
-Has an alcohol problem and lives on a train. He is the engineer on the train we used to get to the [[City of Blackstar]]
+Has an alcohol problem and lives on a train. He is the engineer on the train we used to get to the [[Blackstar]]
 
 When he gets drunk he acts like a literal baby and has his assistant, [[Animus (Chris)]], take care of him.

@@ -15,14 +15,14 @@ A bird screeches, there's a rumble of thunder in the distance. A train comes int
 
 We all introduce our characters, who are all traveling on the train.
 
-We are in the [[Gravegate Region]] heading toward the [[City of Blackstar]]. We've been on this train for 2 weeks.
+We are in the [[Gravegate Region]] heading toward the [[Blackstar]]. We've been on this train for 2 weeks.
 
 ### Before Dinner
 [[Regiboldeustorgust Blatenoose]], who is the engineer of the train, knocks on [[Animus (Chris)]]'s door to get him. He lets him know he's going to get **really** drunk at dinner so Animus will need to take over driving the train.
 
 Laramie investigates some of the train patrons:
 - Room behind Toshi and Laramie
-	- Dwarf [[Curt Boulderbeard]] and  half-orc [[Thrunk "Blastmaster" Smith]] from the [[Smithworks Company]]
+	- Dwarf [[Curt Boulderbeard]] and  half-orc [[Thrunk Blastmaster Smith]] from the [[Smithworks Company]]
 		- They're both very rowdy
 		- generally nice
 		- Blastmaster is a name that isn't known, but I overheard it
@@ -53,7 +53,7 @@ When Laramie enters the dining hall, with his [[That's Odd]] ability, he notices
 A ring is on Albert's finger. It glints in a very weird way. There is an inscription on it: 
 > ![[32ABE268-3D0D-4EBF-945D-88A32302F6C7.jpeg]]
 
-[[Regiboldeustorgust Blatenoose]] is really drunk at this point. [[Magpie (Kit)]] goes up to him to introduce herself. Meanwhile, [[Thrunk "Blastmaster" Smith]] is "thrunking" the table nearby. Regibold thinks that he recognizes Magpie, asking if she is "Sally".  He is really losing his cool, spilling food everywhere. He's eating mashed sweet potato like a widdle baby. The talk about [[Animus (Chris)]] as if they aren't even there. There is a lot of weird tension between them. Regibold apparently lives on the train?? He tells Magpie that Animus is his "assistant". 
+[[Regiboldeustorgust Blatenoose]] is really drunk at this point. [[Magpie (Kit)]] goes up to him to introduce herself. Meanwhile, [[Thrunk Blastmaster Smith]] is "thrunking" the table nearby. Regibold thinks that he recognizes Magpie, asking if she is "Sally".  He is really losing his cool, spilling food everywhere. He's eating mashed sweet potato like a widdle baby. The talk about [[Animus (Chris)]] as if they aren't even there. There is a lot of weird tension between them. Regibold apparently lives on the train?? He tells Magpie that Animus is his "assistant". 
 
 [[Animus (Chris)]] takes [[Regiboldeustorgust Blatenoose]] away to go to beddy bye, when all of a sudden he is poked in the back. When he turns around there is a disheveled harry potter looking person. It's [[Nathan Gruber]] of the [[Gentle Bandits]]. He asks Animus to stay and not take Regibold away. Animus feels compelled to comply for some reason, so they stay. 
 
@@ -77,7 +77,7 @@ They eventually get to the dining room and roll perception. There are bodies **e
 
 [[Sitka Ridgerunner (Steve)]] wakes up [[Toshiro Mitsunara (Scott)]]. They are happy to see each other. Toshi asks if Sitka killed again. Toshi then reveals that he has a bounty to return Sitka. Sitka asks Toshi to not try and collect his bounty, and he surprisingly agrees. People are starting to wake up now. [[Samantha Bridgewater]] is freaking out. Laramie wakes up and inspects the box that [[Delilah]] dropped. It is empty now. [[Regiboldeustorgust Blatenoose]] wakes up and insists that he didn't drink one bit in case anyone asks. He is afraid of getting in trouble for what has happened. Laramie furiously takes notes, which looks a little suspicious. Panic starts, so Laramie casts [[No cause for alarm]] to calm everyone down. It succeeds.
 
-[[Laramie Sarnoff (Luke)]] comes to a realization. [[Curt Boulderbeard]] and [[Thrunk "Blastmaster" Smith]] are acting very jittery. [[Avel]] and [[Albert Periwinkle]] are looking mean and looking like they're ready to fight. He then remembers that they were also looking for the ruby. [[Thrunk "Blastmaster" Smith]] puts on some metal fists suddenly. He announces that he is going to his room and will kill anyone that enters. 
+[[Laramie Sarnoff (Luke)]] comes to a realization. [[Curt Boulderbeard]] and [[Thrunk Blastmaster Smith]] are acting very jittery. [[Avel]] and [[Albert Periwinkle]] are looking mean and looking like they're ready to fight. He then remembers that they were also looking for the ruby. [[Thrunk Blastmaster Smith]] puts on some metal fists suddenly. He announces that he is going to his room and will kill anyone that enters. 
 
 [[Toshiro Mitsunara (Scott)]] questions [[Sitka Ridgerunner (Steve)]] and [[Samara Threnodae (Tom)]] to figure out where they came from. Sitka recounts what happened. 
 

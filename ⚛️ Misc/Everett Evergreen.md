@@ -12,4 +12,4 @@ class:
 ---
 # [[Everett Evergreen]]
 
-The mayor of [[City of Blackstar]]. He oversees managing the city and commanding the [[Black Guard]].
+The mayor of [[Blackstar]]. He oversees managing the city and commanding the [[Black Guard]].

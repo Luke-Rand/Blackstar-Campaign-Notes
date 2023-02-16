@@ -10,7 +10,7 @@ ancestry:
 gender: 
 class: 
 ---
-# [[City of Blackstar]]
+# [[Blackstar]]
 
 ## Continent
 [[Enzion]]

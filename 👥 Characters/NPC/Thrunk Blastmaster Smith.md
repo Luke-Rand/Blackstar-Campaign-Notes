@@ -10,7 +10,7 @@ ancestry: Half-orc
 gender: Man
 class: 
 ---
-# [[Thrunk "Blastmaster" Smith]]
+# [[Thrunk Blastmaster Smith]]
 
 A member of the [[Smithworks Company]]. Carries metal fists as a weapon.
 

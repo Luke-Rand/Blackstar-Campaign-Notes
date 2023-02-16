@@ -32,7 +32,7 @@ summary: "Initial game settup"
 - Death did not exist in this area, but is now back. There is a lot of undead as a result
 
 ## Session Notes
-- We pick up in the [[City of Blackstar]], on the continent of Myrion
+- We pick up in the [[Blackstar]], on the continent of Myrion
 
 ## Gods
 ![[godTable.png]]

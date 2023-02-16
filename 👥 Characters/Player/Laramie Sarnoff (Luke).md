@@ -19,7 +19,7 @@ Son of Walter and Mary Sarnoff, Laramie grew up in a tight-knit flock of peacock
 ### The Gentle Bandits
 Laramie eventually landed a job in the mailroom of Flight Log. What an achievement! This was huge for him. While doing his work, delivering mail to the offices people he admired, Laramie often looked for potential inroads to the publishing department. He kept his ears open on and off the job, hoping to pick up leads on emerging stories. One day, he overheard a couple people in the office talking about a group called [[The Gentle Bandits]]. Apparently this group was making a name for themselves by stealing from rich groups and individuals in a unique way. They were apparently pacifists that would coerce their targets into relinquishing their wealth, all while never hurting anyone. Laramie found this interesting and thought he could turn it into a compelling story.
 
-One day, on his way into work, Laramie saw a peculiar job posting on a wall in the center of [[City of Blackstar|Blackstar]]. It read: 
+One day, on his way into work, Laramie saw a peculiar job posting on a wall in the center of [[Blackstar|Blackstar]]. It read: 
 
 > Take what's yours! Join the Gentle Bandits! - The rich have kneeled on our necks for long enough. We are a group that means no harm, but are going to take what is rightfully ours. Join the gentle bandits today to bring balance back to Blackstar.
 

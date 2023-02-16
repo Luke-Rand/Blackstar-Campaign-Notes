@@ -12,6 +12,6 @@ class:
 ---
 # [[Albert Periwinkle]]
 
-We met him on a train on the way to the [[City of Blackstar]] in [[Session 1]].
+We met him on a train on the way to the [[Blackstar]] in [[Session 1]].
 
 He carries a katana and wears kitsune clothes, despite being a human. He reads a lot of kitsune books.

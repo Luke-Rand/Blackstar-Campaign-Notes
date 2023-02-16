@@ -23,7 +23,7 @@ Thanks to [[MagniTech]] a state sponsored project that brought the greatest craf
 - The undead
 - Wild and old magic
 - public greed regarding black dust
-- The four Great Families of [[City of Blackstar]]
+- The four Great Families of [[Blackstar]]
 - The environment itself
 
 ## The Environment
@@ -37,7 +37,7 @@ This part of the world is very diverse financially, from the Ultra-wealthy Famil
 ## The Ruling Class
 In this part of the world there are three great seats of power.
 
-Firstly, there is the Mayor of Blackstar, [[Everett Evergreen]]. Elected as mayor a few years back he oversees managing the city and commanding the “[[Black Guard]]”. The Blackguard is an elite group of guardsmen who are given two orders. Keep the peace in [[City of Blackstar]], and never let anything from the lower continent escape into [[Enzion]] proper.
+Firstly, there is the Mayor of Blackstar, [[Everett Evergreen]]. Elected as mayor a few years back he oversees managing the city and commanding the “[[Black Guard]]”. The Blackguard is an elite group of guardsmen who are given two orders. Keep the peace in [[Blackstar]], and never let anything from the lower continent escape into [[Enzion]] proper.
 
 The Second is the [[Association of Adventures and Acquisitions]]. Due to the nature of those foolish enough to live and work here, the “Triple A” is very popular. There are only two reasons to seek a life in Blackstar, Adventures and Acquisitions.
 

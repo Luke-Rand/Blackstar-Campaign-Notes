@@ -13,7 +13,7 @@ class:
 
 A member of the [[Smithworks Company]]
 
-Rowdy but generally nice. We first met them with their associate [[Thrunk "Blastmaster" Smith]] on the train to Blackstar.
+Rowdy but generally nice. We first met them with their associate [[Thrunk Blastmaster Smith]] on the train to Blackstar.
 
 ```dataview
 TABLE without id file.inlinks AS "Notes with this character"
