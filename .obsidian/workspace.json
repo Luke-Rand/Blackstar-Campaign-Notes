@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🎲 Sessions/Session 1.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "🎲 Sessions/Session 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,10 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f154f3351b560dd1",
+  "active": "ce20fc51dd4c164b",
   "lastOpenFiles": [
-    "🗺️ Locations/Blackstar.md",
     "README.md",
+    "🗺️ Locations/Blackstar.md",
     "🎲 Sessions/Session 1.md",
     "⚛️ Misc/Laramie Cheat Sheet.md",
     "⚛️ Misc/Devise a stratagem.md",
