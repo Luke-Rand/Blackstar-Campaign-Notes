@@ -12,3 +12,4 @@ class:
 ---
 # [[Avel]]
 
+Elven woman who is a member of the Circle of The Reawakened Barren.

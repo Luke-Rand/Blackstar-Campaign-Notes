@@ -10,7 +10,7 @@ ancestry: Human
 gender: Man
 class: 
 ---
-# [[Albert Periwinkle]]
+# [[Albert Periwinkle -White Tiger-]]
 
 We met him on a train on the way to the [[Blackstar]] in [[Session 1]].
 

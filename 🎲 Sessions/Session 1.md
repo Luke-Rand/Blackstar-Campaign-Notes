@@ -29,7 +29,7 @@ Laramie investigates some of the train patrons:
 - Room diagonal from Toshi and Laramie
 	- Woman from the [[Circle of The Reawakened Barren]], [[Avel]], who also goes by Red Willow
 		- I'm pretty sure she's an assassin because of the weapons she is hiding
-		- With a man named [[Albert Periwinkle]], but he prefers to go by White Tiger
+		- With a man named [[Albert Periwinkle -White Tiger-]], but he prefers to go by White Tiger
 			- He carries a katana
 			- Wears Kitsune clothes
 			- Reading a book only written in Kitsune
@@ -64,7 +64,7 @@ Suddenly [[Magpie (Kit)]] needs to do a will save. [[Nathan Gruber]] is talking 
 [[Toshiro Mitsunara (Scott)]] feels a sudden tap on his tail. He is suddenly infatuated by [[Samantha Bridgewater]]. 
 
 ### The Gentle Bandits Investigate
-While everyone is under some kind of spell from failing their will save, [[Laramie Sarnoff (Luke)]] asks around about the Ruby. He suggests [[Albert Periwinkle]] has the gem. When they take off his ring, the inscription completes itself, it looks like a kitsune tail with ears. [[Nathan Gruber]] looks it over and says that it's a reading ring for reading Kitsune "illustrated books". He then turns to the [[Smithworks Company]] people. He tries to turn them each against each other to see if they know anything. This doesn't work, but he finds out that they are also looking for the [[Ruby of Anarchy]]
+While everyone is under some kind of spell from failing their will save, [[Laramie Sarnoff (Luke)]] asks around about the Ruby. He suggests [[Albert Periwinkle -White Tiger-]] has the gem. When they take off his ring, the inscription completes itself, it looks like a kitsune tail with ears. [[Nathan Gruber]] looks it over and says that it's a reading ring for reading Kitsune "illustrated books". He then turns to the [[Smithworks Company]] people. He tries to turn them each against each other to see if they know anything. This doesn't work, but he finds out that they are also looking for the [[Ruby of Anarchy]]
 
 Laramie talks with [[Delilah]], she drops a black box. He successfully asks her about a store that she might have gotten her fine clothes from. He was miraculously correct, and she is eager to talk about it. She clearly appears to be of old money and very noble. She suddenly drops a suspicious black box just as everything in the room goes black.
 
@@ -77,7 +77,7 @@ They eventually get to the dining room and roll perception. There are bodies **e
 
 [[Sitka Ridgerunner (Steve)]] wakes up [[Toshiro Mitsunara (Scott)]]. They are happy to see each other. Toshi asks if Sitka killed again. Toshi then reveals that he has a bounty to return Sitka. Sitka asks Toshi to not try and collect his bounty, and he surprisingly agrees. People are starting to wake up now. [[Samantha Bridgewater]] is freaking out. Laramie wakes up and inspects the box that [[Delilah]] dropped. It is empty now. [[Regiboldeustorgust Blatenoose]] wakes up and insists that he didn't drink one bit in case anyone asks. He is afraid of getting in trouble for what has happened. Laramie furiously takes notes, which looks a little suspicious. Panic starts, so Laramie casts [[No cause for alarm]] to calm everyone down. It succeeds.
 
-[[Laramie Sarnoff (Luke)]] comes to a realization. [[Curt Boulderbeard]] and [[Thrunk Blastmaster Smith]] are acting very jittery. [[Avel]] and [[Albert Periwinkle]] are looking mean and looking like they're ready to fight. He then remembers that they were also looking for the ruby. [[Thrunk Blastmaster Smith]] puts on some metal fists suddenly. He announces that he is going to his room and will kill anyone that enters. 
+[[Laramie Sarnoff (Luke)]] comes to a realization. [[Curt Boulderbeard]] and [[Thrunk Blastmaster Smith]] are acting very jittery. [[Avel]] and [[Albert Periwinkle -White Tiger-]] are looking mean and looking like they're ready to fight. He then remembers that they were also looking for the ruby. [[Thrunk Blastmaster Smith]] puts on some metal fists suddenly. He announces that he is going to his room and will kill anyone that enters. 
 
 [[Toshiro Mitsunara (Scott)]] questions [[Sitka Ridgerunner (Steve)]] and [[Samara Threnodae (Tom)]] to figure out where they came from. Sitka recounts what happened. 
 
@@ -107,3 +107,50 @@ They do a musical number in a Disney musical style. It's really awkward consider
 [[Sitka Ridgerunner (Steve)]] is going to audition to be percussion for [[Toshiro Mitsunara (Scott)]]'s act. He does surprisingly well.
 
 It's now breakfast time, it smells like bacon.
+
+# Laramie's Summary
+It's a dark and stormy night. The kind of night that makes you think of dark times. Or maybe it's just foreshadowing of what's to come.
+
+I find myself on a train. Riding through the storm with the rain going pat pat pat on the window. Except that might not be a storm outside. And this is no normal train.
+**music stops**
+It's a lightning train 🎺
+
+Well, well, well, looks like I've got company in my humble abode. I'm sharing a room with a real foxy individual. He's a musician, and he's got some talent. He's got these pointy ears and a bushy tail, like some kind of creature out of a fairy tale. Name's Toshi. I'm not sure what to make of it, but he seems harmless enough.
+
+I spotted a couple of burly lookin' fellas who are staying in the room next to me. One is a dwarf named Curt Boulderbeard, the other is a half-orc named Thrunk Smith. I found out they're from the Smithworks Company. They're the kind of guys you wouldn't want to mess with if you catch my drift.
+
+Next room over is an odd pair. First, a lady who goes by the name White Tiger. Real name Avel. From the Circle of The Reawakened Barren. *shing* *shing* *shing* goes her blade, which she sharpens regularly. 
+**music stops**
+Watch out!🎺 She might be an assassin.
+
+Also in the lady's room is a man named Albert Periwinkle. And I do mean a man. He sports a tail much like my roommate, but this one is clearly fake. From what I gather he's a member of the Cromsonshore Alliance.
+
+My traveling party. One man. One Woman. Nathan Gruber. Samantha Bridgewater. Respectively. I'm keeping my eyes on them. 
+**Music stops**
+Squawk!🎺
+
+Bong Bong Bong goes the dinner bell. The patrons make their way toward the front of the train. To the dining hall. But not too far! There's a locked door.
+
+Across the room, I see a powerful figure sitting with his back to the wall, surveying the scene with a watchful eye. Franchesco Ironmane is his name, and he's a dwarf who commands respect. You can tell he's got connections, the way people are deferring to him left and right. He's got a thick beard, and there's a glint in his eye that tells you he's not to be trifled with. He's wearing a tailored suit that looks like it cost more than my rent, and he's sipping on a glass of whiskey like he's the king of the world. Tick Tick Tick goes his pocket watch. That's some tech I ain't seen where I'm from. I wouldn't want to cross him, that's for sure.
+
+At the dinner, things got interesting when a liquored-up Regibold stumbled into the scene. He's the engineer of this joint. Keeps the wheels rolling. With the help of his automaton assistant. Their name's Animus. Weird pair.
+
+Wah Wah Wah! goes Regibold. Like a wee babe that one when he's drunk.
+
+Time to make our move. The crew and I make our rounds. 
+
+Albert Periwinkle? The kid doesn't have the stuff. He couldn't be carrying the Ruby of Anarchy.
+
+Smithworks brothers? Well, they let slip that they're also looking for the Ruby. A surprise to be sure.
+
+Then I turn and there's someone I haven't made the acquaintance of yet. A pretty looking broad named Delilah. I hit her with the usual charm. She's spilling her secrets in no time. All of a sudden she drops a black box and then...
+
+**Music stops**
+Wham!🎺 Thud!🎺 Agh!🎺
+Darkness.
+**music starts**
+
+Next thing I know I'm waking up off the floor. Was it that good of a party?
+
+Shame. the broad is dead. Even worse, the box is gone.
+

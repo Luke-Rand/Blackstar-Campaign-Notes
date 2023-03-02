@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "ce20fc51dd4c164b",
+            "id": "dfe42af6816d0052",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dfac5c550f1942d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🎲 Sessions/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎲 Sessions/Session 1.md",
+                "file": "🎲 Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎲 Sessions/Session 1.md",
+                "file": "🎲 Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎲 Sessions/Session 1.md"
+                "file": "🎲 Sessions/Session 2.md"
               }
             }
           }
@@ -151,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🎲 Sessions/Session 1.md",
+                "file": "🎲 Sessions/Session 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,11 +209,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce20fc51dd4c164b",
+  "active": "9dfac5c550f1942d",
   "lastOpenFiles": [
+    "👥 Characters/NPC/Avel.md",
+    "🎲 Sessions/Session 2.md",
+    "🎲 Sessions/Session 1.md",
+    "⚛️ Misc/Potency Crystal.md",
+    "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
     "README.md",
     "🗺️ Locations/Blackstar.md",
-    "🎲 Sessions/Session 1.md",
     "⚛️ Misc/Laramie Cheat Sheet.md",
     "⚛️ Misc/Devise a stratagem.md",
     "👥 Characters/NPC/Thrunk Blastmaster Smith.md",
