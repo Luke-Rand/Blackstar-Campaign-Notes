@@ -12,6 +12,13 @@ Notes from the Blackstar Pathfinder2e Campaign. These notes are an Obsidian note
 
 I plan to eventually host these notes as a wiki but this is the best way for me to take campaign notes for now. Please feel free to fork my repo and create a pull request to contribute!
 
+## Sessions
+```dataview
+TABLE date AS "Date", summary AS "Summary" 
+WHERE type = "session" AND file.name != "Session Summary"
+SORT date ASCENDING
+```
+
 ## Player Characters
 ```dataview
 TABLE played_by AS "Played By", ancestry AS "Ancestry", class AS "Class"
@@ -36,9 +43,8 @@ TABLE summary AS "Summary"
 WHERE type = "location" AND file.name != "Location"
 ```
 
-## Sessions
+## Important Items
 ```dataview
-TABLE date AS "Date", summary AS "Summary" 
-WHERE type = "session" AND file.name != "Session Summary"
-SORT date ASCENDING
+TABLE summary AS "Summary"
+WHERE type = "item" AND important = true
 ```

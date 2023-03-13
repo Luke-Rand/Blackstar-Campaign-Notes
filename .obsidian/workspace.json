@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "7cf4b3307f61870a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dfe42af6816d0052",
             "type": "leaf",
             "state": {
@@ -28,7 +40,7 @@
             }
           },
           {
-            "id": "9dfac5c550f1942d",
+            "id": "3670971decfa6eb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b0a0ba83c835bea",
@@ -186,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7591569571606257,
+                  "scale": 0.7591569571606256,
                   "close": true
                 }
               }
@@ -209,21 +222,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dfac5c550f1942d",
+  "active": "3670971decfa6eb2",
   "lastOpenFiles": [
-    "👥 Characters/NPC/Avel.md",
+    "Documents/Recaps/Session2/Session 2_2.pdf",
+    "README.md",
+    "Documents/Recaps/Session2/Session 2_1.pdf",
+    "Documents/Recaps/Session2",
+    "⚛️ Misc/Ruby of Anarchy.md",
     "🎲 Sessions/Session 2.md",
+    "👥 Characters/NPC/Nathan Gruber.md",
+    "👥 Characters/NPC/Samantha Bridgewater.md",
+    "👥 Characters/NPC/Avel.md",
+    "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
+    "👪 Factions/Smithworks Company.md",
+    "Documents/Recaps/Session1/Session 2.pdf",
     "🎲 Sessions/Session 1.md",
     "⚛️ Misc/Potency Crystal.md",
-    "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
-    "README.md",
     "🗺️ Locations/Blackstar.md",
     "⚛️ Misc/Laramie Cheat Sheet.md",
     "⚛️ Misc/Devise a stratagem.md",
     "👥 Characters/NPC/Thrunk Blastmaster Smith.md",
     "🗺️ Locations/Southreach.md",
     "Assets/Southreach.png",
-    "👪 Factions/Smithworks Company.md",
     "👪 Factions/Ironmane Clan.md"
   ]
 }

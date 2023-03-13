@@ -3,7 +3,7 @@ type: npc
 faction: "Gentle Bandits"
 location: 
 date: 2023-02-13
-summary: "Mage in the Gentle Bandits"
+summary: "Mage in the Gentle Bandits. Possibly behind the murder mystery on the train."
 ancestry: 
 gender: 
 class: 
@@ -18,3 +18,5 @@ He is quiet and rather meek, only really ever speaking to [[Samantha Bridgewater
 
 ## Notes
 He is really nice to people.
+
+It turns out he was behind the murder mystery on the train. 

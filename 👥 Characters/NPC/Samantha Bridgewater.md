@@ -13,3 +13,6 @@ class:
 
 ## Backstory
 Powerful, intelligent, arrogant, those are the words used to describe the leader of the [[Gentle Bandits]]. Her voice is soft and calming but in her eyes burns a fire that could only be quenched with vengeance.
+
+## Notes
+She was put under a spell by [[Nathan Gruber]] when the party was attacked on the train. She had some sort of red mist coming out of her eyes.
