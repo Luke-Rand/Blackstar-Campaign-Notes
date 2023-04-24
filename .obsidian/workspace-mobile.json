@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Sessions/Session 1.md",
+                "file": "🎲 Sessions/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🎲 Sessions/Session 1.md",
+            "file": "🎲 Sessions/Session 4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🎲 Sessions/Session 1.md",
+            "file": "🎲 Sessions/Session 4.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🎲 Sessions/Session 1.md"
+            "file": "🎲 Sessions/Session 4.md"
           }
         }
       }
@@ -134,6 +134,13 @@
   },
   "active": "29906b79413d23fc",
   "lastOpenFiles": [
+    "Assets/IMG_4861.jpeg",
+    "🎲 Sessions/Session 1.md",
+    "🎲 Sessions/Session 4.md",
+    "⚛️ Misc/Potency Crystal.md",
+    "Documents/Recaps/Session2/Session 2_1.pdf",
+    "Documents/Recaps/Session2/Session 2_2.pdf",
+    "Documents/Recaps/Session1/Session 2.pdf",
     "👥 Characters/NPC/Thrunk Blastmaster Smith.md",
     "🗺️ Locations/Southreach.md",
     "Documents/Recaps/Session1/Session1_2.pdf",
@@ -153,7 +160,6 @@
     "⚛️ Misc/Myrion.md",
     "👥 Characters/NPC/Avel.md",
     "👪 Factions/Crimsonshore Alliance.md",
-    "⚛️ Misc/Ruby of Anarchy.md",
-    "🎲 Sessions/Session 1.md"
+    "⚛️ Misc/Ruby of Anarchy.md"
   ]
 }
