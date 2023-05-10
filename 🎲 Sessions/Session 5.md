@@ -13,7 +13,7 @@ We pick up rested in the rug room.
 
 The northern doors are ornate and the handles are recessed. There's no apparent way to open them.
 
-Se clear more rooms filled with zombies. We find a +1 dagger, smoking rapier, 4 +1 potency runes, striking rune, +1 scythe, +1 composite short bow, +1 pepperbox. We also find more Aeon Stones.
+S clear more rooms filled with zombies. We find a +1 dagger, smoking rapier, 4 +1 potency runes, striking rune, +1 scythe, +1 composite short bow, +1 pepperbox. We also find more Aeon Stones.
 
 [[Jerrex Rockbeard (Jason)]] is ambushed by zombies while exploring on his own. He is hurt pretty badly.
 

@@ -15,16 +15,6 @@ description: "Cheat sheet for Laramie"
 	- [[Bon Mot]] is when you launch a quip at a foe within 30 ft
 	- [[Tumble Through]] is when you move through the space of one enemy, requires an [[Acrobatics]] check against the foe's [[Reflex]] DC
 
-### [[Devise A Stratagem]]
-Use to plan out an attack ahead of time
-**Examples**
-Action 1: [[Devise a stratagem]]
-*If was successful to hit*
-Action 2: Stride
-Action 3: Strike
-
-
-
 
 **On the Case**:
 Start investigating a subject (creature, item, small location) with [[Pursue a Lead]]. You can maintain 2 investigations at a time. If a teammate attempts a check on a lead of mine, use [[Clue in]].
