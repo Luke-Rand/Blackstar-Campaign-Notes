@@ -1,4 +1,5 @@
 ---
+alias: Regi
 type: npc
 important:
 played_by:
