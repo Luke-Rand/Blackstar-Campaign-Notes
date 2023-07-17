@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ea334e08f9ddb8a",
+            "id": "215ad22bcb813b87",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
@@ -28,73 +30,19 @@
             }
           },
           {
-            "id": "3f90853535c6bfa3",
+            "id": "2ea334e08f9ddb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎲 Sessions/Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2710ef25580d8158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎲 Sessions/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93d134477e8715c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎲 Sessions/Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f2b0bea6179034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
+                "file": "🎲 Sessions/Session 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "285e9917d5c36362",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9d97d3cbaae5f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚛️ Misc/Laramie Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "quilliam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,12 +87,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bf7b1a0a8609d615",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b0a0ba83c835bea",
@@ -155,69 +112,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aae77be3424ffb02",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "🎲 Sessions/Session 6.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f154f3351b560dd1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🎲 Sessions/Session 6.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a2995e08c6db431f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "d70c4674ffd9a6a1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "🎲 Sessions/Session 6.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a474c8deaa6fab2a",
-        "type": "tabs",
-        "children": [
-          {
             "id": "d41eefe0b5b3ae6d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🎲 Sessions/Session 6.md",
+                "file": "🎲 Sessions/Session 8.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +147,63 @@
             }
           }
         ]
+      },
+      {
+        "id": "9fcad8d426d6d22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae77be3424ffb02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🎲 Sessions/Session 8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f154f3351b560dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🎲 Sessions/Session 8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2995e08c6db431f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d70c4674ffd9a6a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🎲 Sessions/Session 8.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -264,32 +221,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93d134477e8715c5",
+  "active": "2ea334e08f9ddb8a",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230424203651.png",
-    "Assets/Pasted image 20230424202433.png",
-    "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
-    "🎲 Sessions/Session 6.md",
-    "Assets/IMG_4964.jpeg",
-    "🗺️ Locations/Gravegate Region.md",
-    "⚛️ Misc/Lou Phole.md",
-    "Assets/IMG_4963.jpeg",
-    "🎲 Sessions/Session 4.md",
+    "🎲 Sessions/Session 8.md",
+    "🎲 Sessions/Session 7.md",
     "README.md",
     "🎲 Sessions/Session 5.md",
+    "🎲 Sessions/Session 6.md",
+    "👥 Characters/Player/Toshiro Mitsunara (Scott).md",
+    "👥 Characters/NPC/Albert Periwinkle -White Tiger-.md",
+    "👥 Characters/Player/Sitka Ridgerunner (Steve).md",
+    "👥 Characters/Player/Samara Threnodae (Tom).md",
+    "👥 Characters/Player/Laramie Sarnoff (Luke).md",
+    "👥 Characters/Player/Magpie (Kit).md",
+    "👥 Characters/Player/Animus (Chris).md",
+    "👥 Characters/Player/Jerrex Rockbeard (Jason).md",
     "⚛️ Misc/Laramie Cheat Sheet.md",
+    "Assets/Southreach.png",
+    "Assets/session0CurrentTrials.png",
+    "Assets/Pasted image 20230424203651.png",
+    "Assets/Pasted image 20230424202433.png",
+    "Assets/Pasted image 20230214090723.png",
+    "Assets/Pasted image 20230213101918.png",
+    "Assets/LaramieSarnoff.png",
+    "Assets/LaramieSarnoff.jpg",
+    "Assets/IMG_4964.jpeg",
+    "Assets/IMG_4963.jpeg",
+    "⚛️ Misc/Quilliam.md",
+    "🗺️ Locations/Gravegate Region.md",
+    "⚛️ Misc/Lou Phole.md",
+    "🎲 Sessions/Session 4.md",
     "Documents/Recaps/Session5/Session5_2.pdf",
     "Documents/Recaps/Session5/Session5_1.pdf",
     "Documents/Recaps/Session5",
-    "👥 Characters/Player/Jerrex Rockbeard (Jason).md",
     "⚛️ Misc/Red Herring.md",
     "⚛️ Misc/Devise a stratagem.md",
     "Documents/Recaps/Session4/Session4_2.pdf",
     "Documents/Recaps/Session4/Session4_1.pdf",
     "Documents/Recaps/Session4",
     "🎲 Sessions/Session 3.md",
-    "Assets/IMG_4861.jpeg",
-    "👥 Characters/Player/Toshiro Mitsunara (Scott).md",
     "🎲 Sessions/Session 1.md",
     "🎲 Sessions/Session 2.md",
     "Documents/Recaps/Session2/Session 2_2.pdf",
@@ -298,14 +268,6 @@
     "⚛️ Misc/Ruby of Anarchy.md",
     "👥 Characters/NPC/Nathan Gruber.md",
     "👥 Characters/NPC/Samantha Bridgewater.md",
-    "👥 Characters/NPC/Avel.md",
-    "👪 Factions/Smithworks Company.md",
-    "Documents/Recaps/Session1/Session 2.pdf",
-    "⚛️ Misc/Potency Crystal.md",
-    "🗺️ Locations/Blackstar.md",
-    "👥 Characters/NPC/Thrunk Blastmaster Smith.md",
-    "🗺️ Locations/Southreach.md",
-    "Assets/Southreach.png",
-    "👪 Factions/Ironmane Clan.md"
+    "Documents/Recaps/Session1/Session 2.pdf"
   ]
 }

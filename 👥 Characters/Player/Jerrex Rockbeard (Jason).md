@@ -1,4 +1,5 @@
 ---
+alias: Jerrex
 type: pc
 played_by: Jason
 faction:

@@ -1,4 +1,5 @@
 ---
+alias: Samara
 type: pc
 played_by: Tom
 faction:

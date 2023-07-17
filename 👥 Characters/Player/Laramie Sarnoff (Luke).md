@@ -1,4 +1,5 @@
 ---
+alias: Laramie, Fletcher, Fletcher McFist
 type: pc
 played_by: Luke
 faction:

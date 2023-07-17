@@ -1,4 +1,5 @@
 ---
+alias: Sitka
 type: pc
 played_by: Steve
 faction:

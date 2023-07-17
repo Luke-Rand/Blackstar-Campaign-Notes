@@ -1,4 +1,5 @@
 ---
+alias: Toshi
 type: pc
 played_by: Scott
 faction:

@@ -1,4 +1,5 @@
 ---
+alias: Animus
 type: pc
 played_by: Chris
 faction:
