@@ -13,6 +13,6 @@ class:
 # [[Rations]]
 
 ## Desert rations
-Use 11 rations/day, 8 water/day
-629 rations
-297 water
+Use 11 rations/day, 11 water/day (22 and 14 in tough biome)
+1516 rations
+586 water

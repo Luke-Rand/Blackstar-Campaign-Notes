@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "⚛️ Misc"
+  "newFileFolderPath": "⚛️ Misc",
+  "showLineNumber": true
 }
